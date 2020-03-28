@@ -1,0 +1,2 @@
+# hope
+1) Make a plugin to show Products     also will have a "wp_Product" table when we install Plugin.             Table have :                         ID                        product_name                        product_image (Image Upload option)                         Product_description     2) make an insert, update and delete of product in admin side    3) Make sort code to show product    4) make an addon for Elemantor to drag and drop and show the product.
