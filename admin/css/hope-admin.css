@@ -1,0 +1,23 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.uploaded_image {
+    display: block;
+    width: 200px;
+}
+
+.uploaded_image img {
+    width: 200px;
+}
+
+.featured_image_upload {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.upload_image_button,
+.remove_image_button {
+    margin-top: 10px !important;
+}
